@@ -1,0 +1,9 @@
+
+*.iml
+.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_8_1.xml
+.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml
+.idea/libraries/Maven__org_lz4_lz4_java_1_7_1.xml
+.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_8_0.xml
+.idea/libraries/Maven__com_github_luben_zstd_jni_1_4_9_1.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
